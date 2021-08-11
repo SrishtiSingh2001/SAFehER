@@ -7,7 +7,7 @@
 
 
 ## Introduction:
-  A complete website for pregnant women to ensure their safety and good health....
+  A complete website for pregnant women to ensure their safety and good health.
 
   A platform which is informative about pregnancy, can assist you and guide you fight
   against any kind of violence and where women can ask queries directly from doctors,
@@ -59,7 +59,7 @@ Open gitbash and type the following command:
 *************************************************************
 Create virtual environment, Open Visual Studio code and type the following command in terminal:
 
-##### pip install -r reqirements.txt
+##### pip install -r requirements.txt
 
 *************************************************************
 Followed by these commands in terminal itself:
