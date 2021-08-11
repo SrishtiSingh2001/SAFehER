@@ -36,9 +36,9 @@
 
 Team Name: Pseudo Coders
 
+* [Srishti Singh](https://github.com/SrishtiSingh2001)
 * [Somya Prajapati](https://github.com/somya51p)
 * [Sakshi Ramwani](https://github.com/SAKSHIRAMWANI)
-* [Srishti Singh](https://github.com/SrishtiSingh2001)
 
 
 Video Link:
@@ -87,7 +87,7 @@ Fill the required details and it would be created..
 
 **************************************************************
 
-# Enjoy using the SAFehER Web App..
+# Enjoy using the SAFehER Web App
 
 **************************************************************
 **************************************************************
